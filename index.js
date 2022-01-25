@@ -1,7 +1,7 @@
 const mysql = require("mysql");
 const inquirer = require("inquirer");
 
-// const employee = require("./eployee_db")
+//const employee = require("./eployee_db")
 
 
 const connection = mysql.createConnection({
