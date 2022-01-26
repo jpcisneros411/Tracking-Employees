@@ -1,19 +1,18 @@
 {
-    "name": "employee-tracker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.17.1",
-      "inquirer": "^7.3.3",
-      "mysql2": "^2.3.3",
-      "package.json": "^2.0.1"
-    }
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eployee_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.3.3",
+    "package.json": "^2.0.1"
   }
-  
+}
